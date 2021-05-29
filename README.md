@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Afsharov
-- 👀 I’m interested in AI, Machine Learning and Healthcare
-- 🌱 I’m currently learning more on Data Engineering
-- 💞️ I’m looking to collaborate on anything related to AI and Healthcare
-- 📫 How to reach me:
+## Hi there 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Afsharov" alt="Afsharov" /> </p>
 
-<!---
-Afsharov/Afsharov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About me
+
+I am a Health Informatician focusing on Data Science and Machine Learning projects in healthcare.
+
+- 👀 I’m interested in fun Raspberry Pi projects
+- 🌱 I’m currently learning more about TensorFlow Lite and Google's ML Kit
+- 💬 Ask me about anything related to Python, scikit-learn and Predictive Modeling
+- 🙌🏻 I’m happy to collaborate on projects that help deliver better healthcare
+
+### Current Goals
+
+- 🤼‍♂️ Complete Google Cloud skill challenge for ML and AI
+
+- 🥋 Get TensorFlow Developer Certificate
+
+- 👨🏻‍💻 Get Google Cloud Professional Machine Learning Engineer Certificate
+
